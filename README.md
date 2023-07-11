@@ -40,9 +40,9 @@ I'm a software developer based out of Seattle, WA. I am a Software Engineer at M
 
 ---
 ### My Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HBDanks&count_private=true&bg_color=30,e96443,904e95&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maybe-NSA&count_private=true&bg_color=30,e96443,904e95&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBDanks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe-NSA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
