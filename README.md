@@ -12,7 +12,7 @@
 
 ### About Me:
 
-I'm a software developer based out of Seattle, WA. I am incoming developer of Microsoft LEAP cohort 31, where I will be learning and aspiring to join Microsoft fulltime. I got started in software by attended Coding Dojo in 2020 where I learned to work with Django, MERN and .NET Core. Since then I have worked with Drupal, Selenium and custom Python and PHP frameworks.
+I'm a software developer based out of Seattle, WA. I am a Software Engineer at Microsoft working on M365. I got started in software by attended Coding Dojo in 2020 where I learned to work with Django, MERN and .NET Core. Since then I have worked with Drupal, Selenium and custom Python and PHP frameworks.
 
 ---
 
